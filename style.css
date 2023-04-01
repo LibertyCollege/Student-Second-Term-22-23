@@ -32,6 +32,10 @@
 }
 .list {
   color: #6d7b80;
+  font-size: 1.25rem;
+}
+li {
+  margin-bottom: 0.75rem;
 }
 .foot {
   font-size: 1.25rem;
